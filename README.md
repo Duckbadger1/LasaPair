@@ -9,7 +9,6 @@
 - Product Owner: Ashley Feng
 - Scrum Master: Arhant Choudhary
 - Team Members: Sam Aardema, Adi Pangal, Allan Kaung
-- Description of Project (
 - Contribution (beyond the topics covered in class what additional learning do you intend to accomplish?) To learn Web Assembly, Gale-Shapley algorithm, applying of a priority queue.
 
 ## Design (What is needed for the project and the ways we are accomplishing the goals):
