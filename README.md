@@ -1,6 +1,6 @@
 ## Identification (people who are in the team and what we are doing):
 
-- **Team name:**  Nodes&Pointers inc.
+- **Team name:**  Nodes & Pointers Inc.
 - **Team Members:** Sam Aardema, Arhant Choudhary, Adi Pangal, Allan Kaung, Ashley Feng
 - **Description of project:** We are creating a software to connect computer science mentors with students. Using an input survey with statements that can categorize students by certain characteristics, we will be able to analyze the data and implement an algorithm to create stable matches where every student is assigned a suitable partner.
 
