@@ -3,6 +3,8 @@
 
 #include <iostream>
 #include <string>
+#include "PriorityQueue.h"
+#include "LinkedList.h"
 using namespace std;
 
 class Person { 
