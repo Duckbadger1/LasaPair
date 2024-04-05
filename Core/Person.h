@@ -15,8 +15,8 @@ class Person {
     PriorityQueue* ranking;
   public:
     Person();
-    Person(string name, bool ifMentor, LinkedList formAnswers);
-    Person(string name, bool ifMentor, LinkedList formAnswers, PriorityQueue ranking);
+    Person(string name, bool ifMentor, LinkedList* formAnswers);
+    Person(string name, bool ifMentor, LinkedList* formAnswers, PriorityQueue* ranking);
     string getName();
     void setName(string name);
     bool getIfMentor();

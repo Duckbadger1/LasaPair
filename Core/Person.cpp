@@ -7,14 +7,14 @@ Person::Person(){
   ranking = nullptr;
 }
 
-Person::Person(string name, bool ifMentor, LinkedList formAnswers){
+Person::Person(string name, bool ifMentor, LinkedList* formAnswers){
   this -> name = name;
   this -> ifMentor = ifMentor;
   this -> formAnswers = formAnswers;
   ranking = nullptr;
 }
 
-Person::Person(string name, bool ifMentor, LinkedList formAnswers, PriorityQueue ranking){
+Person::Person(string name, bool ifMentor, LinkedList* formAnswers, PriorityQueue* ranking){
   this -> name = name;
   this -> ifMentor = ifMentor;
   this -> formAnswers = formAnswers;
